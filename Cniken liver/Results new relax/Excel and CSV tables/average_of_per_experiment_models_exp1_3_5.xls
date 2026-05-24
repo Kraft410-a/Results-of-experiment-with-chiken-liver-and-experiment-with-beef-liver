@@ -1,0 +1,2 @@
+﻿experiment_id,feature,intercept_mean,intercept_std,coef_log10_frel_mean,coef_log10_frel_std,mean_rmse_C,std_rmse_C,n_experiments
+mean_of_exp_models,log10_relaxation_freq_abs_Hz,-1352.5567022220557,533.6622150834589,226.1862858586707,85.65217412756726,3.4254010646532946,1.888566103200302,3
